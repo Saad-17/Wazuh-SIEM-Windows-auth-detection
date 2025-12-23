@@ -101,4 +101,4 @@ The report includes:
 
 The report is intended to demonstrate practical SOC analysis skills, incident investigation methodology, and hands-on experience with SIEM tools.
 
-📄 The full report is provided separately as a Word document.
+The full report is provided separately as a Word document.
